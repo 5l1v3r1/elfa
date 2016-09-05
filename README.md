@@ -10,7 +10,7 @@ gdb (GNU debugger) anti-reversing patcher for elf
 
 
 ###### Demo video
-[![asciicast](https://asciinema.org/a/84826.png)](https://asciinema.org/a/84826)
+[![asciicast](https://asciinema.org/a/84826.png)](https://asciinema.org/a/84826?speed=2)
 
 
 ###### Installation and execution
