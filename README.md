@@ -8,6 +8,11 @@
 ![alt tag](https://s11.postimg.org/swnpjh4ur/elfa.png)
 gdb (GNU debugger) anti-reversing patcher for elf
 
+
+###### Demo video
+[![asciicast](https://asciinema.org/a/84826.png)](https://asciinema.org/a/84826)
+
+
 ###### Installation and execution
 Then you can download smap by cloning the [Git](https://github.com/suraj-root/elfa/) repository:
 
