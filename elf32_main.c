@@ -312,19 +312,3 @@ int inject_sp(void){
 	return 1;	
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
